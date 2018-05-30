@@ -1,0 +1,137 @@
+.navbar-collapse ul {
+    margin: 10px;
+}
+
+.navbar {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.navbar-default {
+    background-color: #2f3640;
+}
+
+.navbar a {
+    color: #FFF;
+}
+
+.navbar a:hover {
+    color: #2980b9;
+    animation: linear 2px;
+}
+
+header h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 75px;
+    padding-top: 30px;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+header h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 30px;
+    font-style: italic;
+}
+
+section h2 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bg-default {
+    background-color: #273c75;
+}
+
+.portfolio h2, .contact h2 {
+    color: #273c75 !important;
+}
+
+.portfolio-item {
+    text-align: center;
+    width: 30vh;
+    padding: 15px;
+    border-radius: 2%;
+}
+
+.portfolio-item img {
+    max-width: 200px;
+    max-height: 70px;
+    margin-bottom: 10px;
+}
+
+.portfolio-item p {
+    text-align: justify;
+}
+
+.about h2 {
+    padding-top: 50px;
+}
+
+.about p {
+    text-align: justify;
+    padding-bottom: 30px;
+    font-size: 25px;
+}
+
+.contactForm input {
+    height: 55px;
+}
+
+.btn-send {
+    color: white;
+    background-color: #273c75;
+    width: 70px;
+    height: 50px;
+}
+
+.btn-send:hover {
+    background-color: #192a56;
+}
+
+.footer-port {
+    width: 100%;
+    background-color: #192a56;
+    padding: 40px;
+}
+
+.footer-port h4 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.footer-port ul {
+    list-style: none;
+    margin: 0 auto;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.footer-port ul li {
+    display: inline;
+    padding: 20px;
+}
+
+.footer-port ul li a {
+    color: #fff;
+}
+
+.copyright {
+    padding: 20px;
+    background-color: #121e3d;
+    color: #fff;
+}
+
+.social-medias {
+    padding-bottom: 30px;
+}
+
+.social-media {
+    padding-right: 20px;
+}
+
+.large-icon {
+    font-size: 50px;
+    color: #dcdde1;
+}
